@@ -19,9 +19,11 @@
 
 
 🧾 Certifications I have Accomplished
+   🎖 Azure Fundamentals (az-900)
    🎖 Foundation for istio - Solo.io
-   
+   🎖 Intermediate for istio
+   🎖 Cilium - solo.io
    🎖 Gitops - LinuxFoundations
 
 link:
-https://rehman-devops.web.app/
+https://rehman-tech.com/
